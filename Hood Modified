@@ -1,1 +1,1 @@
-print("Hello world!")
+game.Players.LocalPlayer:Kick("sex")
